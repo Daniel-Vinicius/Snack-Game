@@ -1,6 +1,7 @@
  <h1> Snack Game </h1>
  <p id="sobre" align="center">
-🐍 Um Snack Game feito em JS, HTML e CSS com base neste [vídeo](https://www.youtube.com/watch?v=Hua1OSXitdQ)
+🐍 Um Snack Game feito em JS, HTML e CSS com base neste <a href="https://www.youtube.com/watch?v=Hua1OSXitdQ" target='_blank'>vídeo</a>
+
 
 ![](https://img.shields.io/badge/license-MIT-green)
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
@@ -11,7 +12,7 @@
 
 <!-- Na imagem você deve colocar um print da tela do projeto rodando, se ele tiver um front-end.
 Preferencialmente salve a imagem na pasta .github/Imagem.JPG -->
-<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Snack-Game/.github/Imagem.JPG" />  </h2>
+<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Snack-Game/blob/main/.github/Imagem.JPG" />  </h2>
 
 ### Features
 
