@@ -1,6 +1,6 @@
  <h1> Snack Game </h1>
  <p id="sobre" align="center">
-📱 Descrição   <!-- Um emoji e uma descrição -->
+🐍 Um Snack Game feito em JS, HTML e CSS com base neste [vídeo](https://www.youtube.com/watch?v=Hua1OSXitdQ)
 
 ![](https://img.shields.io/badge/license-MIT-green)
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
@@ -11,13 +11,13 @@
 
 <!-- Na imagem você deve colocar um print da tela do projeto rodando, se ele tiver um front-end.
 Preferencialmente salve a imagem na pasta .github/Imagem.JPG -->
-<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Seu-perfil/repositorio/.github/Imagem.JPG" />  </h2>
+<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Snack-Game/.github/Imagem.JPG" />  </h2>
 
 ### Features
 
 - [x] Completo conforme o [vídeo](https://www.youtube.com/watch?v=Hua1OSXitdQ)
-- [x] Feature 2
-- [x] Feature 3
+- [x] Código Mais Limpo
+- [x] Hospedado
 
 <!-- Coloque o status do projeto -->
 <h4 align="left">  
@@ -53,7 +53,7 @@ Antes de começar é bom ter um editor para trabalhar com o código como [VSCode
  cd Snack-Game
 
  # Execute a aplicação em modo de desenvolvimento
- Acessando o navegador o [index.html](https://github.com/Daniel-Vinicius/Snack-Game/blob/main/Snack%20Game/src/index.html)
+ Acessando o navegador em index.html
 
 ```
 
