@@ -1,5 +1,5 @@
  <h1> Snack Game </h1>
- <p id="sobre" align="center">
+ <p id="sobre">
 🐍 Um Snack Game feito em JS, HTML e CSS com base neste <a href="https://www.youtube.com/watch?v=Hua1OSXitdQ" target='_blank'>vídeo</a>
 
 
