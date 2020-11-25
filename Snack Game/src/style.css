@@ -1,19 +1,27 @@
 body {
-  background-color: #302c33;
+  background-color: #2b2b2b;
+  margin: 0px;
+  padding: 0px;
 }
 .teclas {
   float: right;
-  margin-right:80px;
-  margin-top: 30px;
+  margin-top: -40%;
+  flex-direction: row;
 }
 .titulo {
-  font-family: sans-serif;
-  color: #fff;
+  font-family: Arial, sans-serif;
+  color: #ffffff;
   text-align: center;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 2%;
+  margin-top: 0.5%;
 }
-#jogo {
-  margin-left: 360px;
-  margin-bottom: 1px;
+
+.container1 {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
 }
